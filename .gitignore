@@ -1,0 +1,16 @@
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Arduino / ESP build outputs
+build/
+*.bin
+*.hex
+*.elf
+
+# OS generated files
+.DS_Store
+Thumbs.db
